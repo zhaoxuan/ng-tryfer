@@ -7,9 +7,9 @@
 'use strict';
 (function() {
 
-  var module = angular.module('ng-tryfer', []);
+  var module = angular.module('ngTryfer', []);
 
-  module.provider('ng-tryfer', function() {
+  module.provider('ngTryfer', function() {
 
   });
 
